@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\Casting-List-Practice\Casting-List-Practice\bin\Debug\net6.0\Casting-List-Practice.exe
+C:\Users\lenovo\source\repos\Casting-List-Practice\Casting-List-Practice\bin\Debug\net6.0\Casting-List-Practice.deps.json
+C:\Users\lenovo\source\repos\Casting-List-Practice\Casting-List-Practice\bin\Debug\net6.0\Casting-List-Practice.runtimeconfig.json
+C:\Users\lenovo\source\repos\Casting-List-Practice\Casting-List-Practice\bin\Debug\net6.0\Casting-List-Practice.dll
+C:\Users\lenovo\source\repos\Casting-List-Practice\Casting-List-Practice\bin\Debug\net6.0\Casting-List-Practice.pdb
+C:\Users\lenovo\source\repos\Casting-List-Practice\Casting-List-Practice\obj\Debug\net6.0\Casting-List-Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Casting-List-Practice\Casting-List-Practice\obj\Debug\net6.0\Casting-List-Practice.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Casting-List-Practice\Casting-List-Practice\obj\Debug\net6.0\Casting-List-Practice.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Casting-List-Practice\Casting-List-Practice\obj\Debug\net6.0\Casting-List-Practice.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Casting-List-Practice\Casting-List-Practice\obj\Debug\net6.0\Casting-List-Practice.dll
+C:\Users\lenovo\source\repos\Casting-List-Practice\Casting-List-Practice\obj\Debug\net6.0\refint\Casting-List-Practice.dll
+C:\Users\lenovo\source\repos\Casting-List-Practice\Casting-List-Practice\obj\Debug\net6.0\Casting-List-Practice.pdb
+C:\Users\lenovo\source\repos\Casting-List-Practice\Casting-List-Practice\obj\Debug\net6.0\Casting-List-Practice.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Casting-List-Practice\Casting-List-Practice\obj\Debug\net6.0\ref\Casting-List-Practice.dll
